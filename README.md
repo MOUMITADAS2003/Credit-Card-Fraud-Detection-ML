@@ -102,18 +102,18 @@ models/
 
 credit-card-fraud-detection/
 │
-├── data/
+├data
 │   └── creditcard.csv
 │
-├── notebooks/
+├notebooks
 │   └── fraud_detection.ipynb
 │
-├── models/
+├models
 │   ├── best_model.pkl
 │   └── scaler.pkl
 │
-├── requirements.txt
-└── README.md
+├requirements.txt
+└README.md
 
 ---
 
